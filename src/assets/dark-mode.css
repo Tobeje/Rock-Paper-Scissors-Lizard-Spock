@@ -1,0 +1,17 @@
+body {
+    background-color: #333;
+    color: #FFF;
+}
+
+.btn {
+    background-color: #555;
+    color: #FFF;
+}
+
+.btn:hover {
+    background-color: #777;
+}
+
+svg{
+    fill: #FFF;
+}
