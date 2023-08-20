@@ -7,6 +7,7 @@
 - Ability to save and replay games.
 - Beautiful SVG representation of each choice.
 - Jest testing suite integrated for code reliability.
+- Device Optimization: For PCs, tablets, and mobiles.
 
 ### Getting Started
 
