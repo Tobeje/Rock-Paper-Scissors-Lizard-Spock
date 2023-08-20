@@ -42,7 +42,9 @@
    Once the container is up, you can access the game in your web browser by navigating to http://localhost:8080.
 
 5. Local Setup:
-   - Open index.html in your web browser.
+   ```shell
+    npm start
+    ```
 
 ### Usage
 1. For Player vs. Computer:
